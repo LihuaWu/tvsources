@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #咪咕直播
 #EXTINF:-1 tvg-name="咪咕直播1" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播",咪咕直播1
 http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
