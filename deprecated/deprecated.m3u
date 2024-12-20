@@ -1,3 +1,4 @@
+//copied from https://github.com/YanG-1989/m3u/blob/main/Gather.m3u
 #EXTM3U url-tvg="https://epg.iill.top/epg"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
