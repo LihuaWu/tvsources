@@ -51,3 +51,49 @@ https://live.iill.top/huya/23865171
 https://live.iill.top/huya/23734256
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟚𝟞
 https://live.iill.top/huya/23749083
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•國際「匯集」",鳳凰衛視·中文
+https://tv.iill.top/IPTV/fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="•國際「匯集」",鳳凰衛視·資訊
+https://tv.iill.top/IPTV/fhzx
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.iill.top/logo/无线新闻.png" group-title="•國際「匯集」",無綫新聞台
+https://tv.iill.top/IPTV/wx
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•國際「匯集」",翡翠台
+https://tv.iill.top/IPTV/fc
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•國際「匯集」",明珠台
+https://tv.iill.top/nsw/pearl
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="•國際「匯集」",ViuTV
+https://tv.iill.top/nsw/viutv
+#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="•國際「匯集」",ViuTVsix
+https://tv.iill.top/nsw/viusix
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.iill.top/logo/美亚电影.png" group-title="•國際「匯集」",美亞電影台
+https://tv.iill.top/IPTV/my
+#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://epg.iill.top/logo/PopC.png" group-title="•國際「匯集」",PopC
+https://tv.iill.top/IPTV/popc
+#EXTINF:-1 tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.iill.top/logo/RockAction.png" group-title="•國際「匯集」",ROCK Action
+https://tv.iill.top/IPTV/ra
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.iill.top/logo/CNN.png" group-title="•國際「匯集」",CNN
+https://tv.iill.top/IPTV/cnn
+#EXTINF:-1 tvg-id="星河台" tvg-name="星河台" tvg-logo="https://epg.iill.top/logo/星河台.png" group-title="•國際「匯集」",TVB 星河
+https://tv.iill.top/IPTV/xh
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.iill.top/logo/娱乐新闻.png" group-title="•國際「匯集」",娛樂新聞
+https://tv.iill.top/IPTV/ylxw
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.iill.top/logo/千禧经典.png" group-title="•國際「匯集」",千禧經典
+https://tv.iill.top/IPTV/qxjd
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://epg.iill.top/logo/天映频道.png" group-title="•國際「匯集」",天映頻道
+https://tv.iill.top/IPTV/typd
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.iill.top/logo/天映经典.png" group-title="•國際「匯集」",天映經典
+https://tv.iill.top/IPTV/tyjd
+#EXTINF:-1 tvg-id="TVBJADE" tvg-name="TVBJADE" tvg-logo="https://epg.iill.top/logo/华丽台.png" group-title="•國際「匯集」",華麗台
+https://tv.iill.top/IPTV/jade
+#EXTINF:-1 tvg-id="ASTROAECHD" tvg-name="ASTROAECHD" tvg-logo="https://epg.iill.top/logo/AEC.png" group-title="•國際「匯集」",Astro AEC
+https://tv.iill.top/IPTV/aec
+#EXTINF:-1 tvg-id="ASTROQJ" tvg-name="ASTROQJ" tvg-logo="https://epg.iill.top/logo/全佳.png" group-title="•國際「匯集」",Astro QJ
+https://tv.iill.top/nsw/qj
+#EXTINF:-1 tvg-id="IQIYIHD" tvg-name="IQIYIHD" tvg-logo="https://epg.iill.top/logo/爱奇艺.png" group-title="•國際「匯集」",iQIYI
+https://tv.iill.top/IPTV/iqy
+#EXTINF:-1 tvg-id="ONEHD(MANDARIN)" tvg-name="ONEHD(MANDARIN)" tvg-logo="https://epg.iill.top/logo/ONE.png" group-title="•國際「匯集」",One
+https://tv.iill.top/IPTV/one
+#EXTINF:-1 tvg-id="TVNHD" tvg-name="TVNHD" tvg-logo="https://epg.iill.top/logo/tvN.png" group-title="•國際「匯集」",tvN
+https://tv.iill.top/IPTV/tvn
+#EXTINF:-1 tvg-id="TVNMOVIESHD" tvg-name="TVNMOVIESHD" tvg-logo="https://epg.iill.top/logo/tvNM.png" group-title="•國際「匯集」",tvN Movies
+https://tv.iill.top/IPTV/tvnm
